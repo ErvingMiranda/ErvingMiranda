@@ -9,7 +9,7 @@
 
 I'm a Systems Engineering student at Universidad Americana (UAM) in Managua, Nicaragua. In my projects I combine programming with AI tools: I set goals, design solutions, take part in development, and review the results before merging them.
 
-Python · Java · C# &nbsp;—&nbsp; currently working on [PyGebra](https://github.com/rodolfo-collado/Algebra-Lineal).
+Python · Java · C# &nbsp;—&nbsp; currently working on [PyGebra](https://github.com/Collado-Labs/Algebra-Lineal).
 
 ## Selected work
 
@@ -28,10 +28,10 @@ A collaborative planner for students: goals, events, reminders and shared activi
 A web app designed to be used from a phone that connects clients with independent workers and small trades in Managua, and builds trust between them: manual identity verification, tracked service requests, chat after acceptance and mutual ratings. We built it at Nova Studios for Hackathon Nicaragua 2026.<br>
 <sub>Team project (Nova Studios) · Java 21, Spring Boot, React, PostgreSQL · repository by robertofabiot: <a href="https://github.com/robertofabiot/moica-hackathon">moica-hackathon</a></sub>
 
-<a href="https://github.com/rodolfo-collado/Algebra-Lineal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pygebra-en-dark.svg"><img src="assets/pygebra-en-light.svg" alt="PyGebra"></picture></a>
+<a href="https://github.com/Collado-Labs/Algebra-Lineal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pygebra-en-dark.svg"><img src="assets/pygebra-en-light.svg" alt="PyGebra"></picture></a>
 
 An educational calculator for linear algebra that shows every step instead of just the answer: row reduction, LU, Cramer, inverses, root-finding and set operations, with exact fractions and algorithms written by hand in standard Python. It ships as an offline Windows installer, with 20 releases and 100 test files so far. This is the project where I work as an orchestrator of AI agents.<br>
-<sub>With rodolfo-collado and AI agents · Python · repository by rodolfo-collado: <a href="https://github.com/rodolfo-collado/Algebra-Lineal">Algebra-Lineal</a></sub>
+<sub>With rodolfo-collado and AI agents · Python · repository owned by Collado-Labs: <a href="https://github.com/Collado-Labs/Algebra-Lineal">Algebra-Lineal</a></sub>
 
 ## How I work
 

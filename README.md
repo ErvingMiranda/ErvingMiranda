@@ -9,7 +9,7 @@
 
 Soy estudiante de Ingeniería en Sistemas en la Universidad Americana (UAM), en Managua, Nicaragua. En mis proyectos combino la programación con herramientas de IA: defino objetivos, diseño soluciones, participo en el desarrollo y reviso los resultados antes de integrarlos.
 
-Python · Java · C# &nbsp;—&nbsp; actualmente trabajando en [PyGebra](https://github.com/rodolfo-collado/Algebra-Lineal).
+Python · Java · C# &nbsp;—&nbsp; actualmente trabajando en [PyGebra](https://github.com/Collado-Labs/Algebra-Lineal).
 
 ## Proyectos destacados
 
@@ -28,10 +28,10 @@ Una agenda colaborativa para estudiantes: metas, eventos, recordatorios y activi
 Una aplicación web pensada para usarse desde el celular que conecta a clientes con trabajadores independientes y pequeños oficios de Managua, y genera confianza entre ambos: verificación manual de identidad, seguimiento de solicitudes, chat después de aceptar el servicio y calificaciones mutuas. La desarrollamos en Nova Studios para el Hackathon Nicaragua 2026.<br>
 <sub>Proyecto en equipo (Nova Studios) · Java 21, Spring Boot, React, PostgreSQL · repositorio de robertofabiot: <a href="https://github.com/robertofabiot/moica-hackathon">moica-hackathon</a></sub>
 
-<a href="https://github.com/rodolfo-collado/Algebra-Lineal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pygebra-es-dark.svg"><img src="assets/pygebra-es-light.svg" alt="PyGebra"></picture></a>
+<a href="https://github.com/Collado-Labs/Algebra-Lineal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pygebra-es-dark.svg"><img src="assets/pygebra-es-light.svg" alt="PyGebra"></picture></a>
 
 Una calculadora educativa de álgebra lineal que muestra cada paso en lugar de dar solo el resultado: reducción por filas, LU, Cramer, inversas, búsqueda de raíces y operaciones con conjuntos, con fracciones exactas y algoritmos escritos a mano en Python estándar. Se distribuye como un instalador para Windows que funciona sin internet, y lleva 20 versiones publicadas y 100 archivos de pruebas. Es el proyecto donde trabajo como orquestador de agentes de IA.<br>
-<sub>Con rodolfo-collado y agentes de IA · Python · repositorio de rodolfo-collado: <a href="https://github.com/rodolfo-collado/Algebra-Lineal">Algebra-Lineal</a></sub>
+<sub>Con rodolfo-collado y agentes de IA · Python · repositorio de Collado-Labs: <a href="https://github.com/Collado-Labs/Algebra-Lineal">Algebra-Lineal</a></sub>
 
 ## Cómo trabajo
 
